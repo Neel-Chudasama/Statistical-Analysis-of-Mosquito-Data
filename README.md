@@ -8,7 +8,7 @@ West Nile Virus (Wnv), a mosquito-bourne arbovirus, has been causing significant
 
 This project I demonstrate statistical analysis on the dataset, applying methods such as chi-squared and shapiro-wilks. I also conclude with some basic logistic and linear regression models. 
 
-This project was previously part of a Kaggle Competition: https://www.kaggle.com/c/predict-west-nile-virus/overview
+This project was previously part of a [Kaggle Competition](https://www.kaggle.com/c/predict-west-nile-virus/overview)
 
 This project contains:
 <br>
