@@ -11,8 +11,7 @@ This project I demonstrate statistical analysis on the dataset, applying methods
 This project was previously part of a Kaggle Competition: https://www.kaggle.com/c/predict-west-nile-virus/overview
 
 This project contains:
+
 1 - data.csv - This is the csv file which contains the cleaned data used for the analysis
-
 2 - Statistical Research.ipynb - contains the jupyter notebook with all the statistical analysis 
-
 3 - utils.py - This is the utils library for some of the functions used in the jupyter notebook
